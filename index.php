@@ -8,6 +8,9 @@
 		<h1>
 			Practicas de JS
 		</h1>
+		<p>
+			Esta pagina tambien sirve como pruevas para GIT.
+		</p>
 		<script>
 			
 			var coleccionDeDiscos = {
